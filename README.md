@@ -18,12 +18,6 @@ Il s'agit d'une application destinée aux parents ayant des enfants âgés de 1 
 - **Cloudinary**
 - **Heroku**
 
-#### Rétrospectives
-
-- La simplicité de prise en main et l'intuitivité sont au cœur du design de cette application
-- La mise en place des salles de discussion en groupe et en privé a été un défi que nous avons relevé avec succès.
-- L'architecture et l'interactivité des fonctionnalités de l'application nous permettent d'acquérir de solides compétences à la fois sur le front-end et sur le back-end
-
 #### Contributions
  Ce projet a été réalisé avec
 - Jade GRIMM
