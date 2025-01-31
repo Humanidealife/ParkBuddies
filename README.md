@@ -19,10 +19,11 @@ Il s'agit d'une application destinée aux parents ayant des enfants âgés de 1 
 - **Heroku**
 
 #### Contributions
- Ce projet a été réalisé avec
+ Ce projet a été réalisé par
 - Jade GRIMM
 - Frédérique LAGUERRE
 - Clothilde DROUET
+- WANG Qian
 
 #### Démo
 
